@@ -1,6 +1,7 @@
 # cofeeappui
 
 A new Flutter project. based off of a project on Dribble.
+Youtube video link: https://www.youtube.com/watch?v=e8avvPPhyVk&t=2s
 
 ## Getting Started
 
